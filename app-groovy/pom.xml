@@ -24,15 +24,7 @@
 			<version>2.4.7</version>
 			</dependency>
 	</dependencies>
-	<dependencies>
-		<dependency>
-			<groupId>${project.groupId}</groupId>
-			<artifactId>app-it</artifactId>
-			<version>${project.version}</version>
-		</dependency>
-	</dependencies>
-
-	<build>
+		<build>
 		<plugins>
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
